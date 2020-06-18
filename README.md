@@ -1,0 +1,2 @@
+# lombaunj
+Awal belajar github
